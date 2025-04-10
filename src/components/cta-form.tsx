@@ -5,7 +5,7 @@ import type React from "react"
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { subscribeToTrial } from "actions/subscribe"
+import { subscribeToTrial } from "@/actions/subscribe"
 // import { subscribeToTrial } from "@/actions/subscribe"
 import { CheckCircle } from "lucide-react"
 
